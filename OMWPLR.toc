@@ -1,5 +1,5 @@
 ## Interface: 80100
 ## Title: OMWPLR
 ## Version: 1.0
-## SavedVariables: SavedData
+## SavedVariables: OMWPLR_DB
 main.lua
